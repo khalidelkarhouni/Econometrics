@@ -1,1 +1,1 @@
-# Econometrics
+# Economic Modeling
